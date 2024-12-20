@@ -11,14 +11,15 @@ This is a collection of games from the Scratch website (<https://scratch.mit.edu
 
 ## Current support
 
-Currently, the following projects are included in this repo:
+The following are planned versions for each project detailed below:
 
-### Stamped Terraria v6
+- Local HTML: Run an HTML file in your browser to play the game
+- Web version: Currently unused. Meant for online web hosting.
+- Standalone: Standalone apps for certain platforms.
 
-> Creator: `griffpatch` - <https://scratch.mit.edu/users/griffpatch>
-> Current contents: Local HTML, Web HTML, standalone for Windows
+### Support list
 
-Other platforms are planned but not as of yet included.
+- griffpatch-terraria: local-html, web, standalone-windows (zip)
 
 ## How?
 
