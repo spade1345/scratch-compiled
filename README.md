@@ -1,6 +1,6 @@
 # scratch-compiled
 
-This is as collection of games from the Scratch website (<https://scratch.mit.edu>) compiled for HTML and native platform usage.
+This is a collection of games from the Scratch website (<https://scratch.mit.edu>) compiled for HTML and native platform usage.
 
 ## Games in this collection
 
@@ -11,13 +11,14 @@ This is as collection of games from the Scratch website (<https://scratch.mit.ed
 
 ## Current support
 
-Currently, the following is included in this repo.
+Currently, the following projects are included in this repo:
 
 ### Stamped Terraria v6
 
 > Creator: `griffpatch` - <https://scratch.mit.edu/users/griffpatch>
+> Current contents: Local HTML, Web HTML, standalone for Windows
 
-Currently has the single HTML file.
+Other platforms are planned but not as of yet included.
 
 ## How?
 
