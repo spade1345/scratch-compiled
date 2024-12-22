@@ -24,6 +24,7 @@ The plan is to create packaged versions in the following formats:
   - modified version of the griffpatch-terraria with visual improvements
   - features a basic adaptive music system, the day theme will change if you are on low HP
   - credit to Anuke, creator of open source factory RTS game [Mindustry](https://github.com/anuken/mindustry) and its original soundtrack, for additional music for the adaptive music system!
+  - credit to Blockage, developer of ROBLOX game Neon Knights, for creating the awesome Encounter boss battle theme! (used as a potential boss battle theme)
 - paper-minecraft: planned
 
 ## How?
