@@ -27,7 +27,7 @@ The plan is to create packaged versions in the following formats:
   - features a basic adaptive music system, the game plays different, darker themes if you are low on HP
   - credit to Anuken, creator of open source factory RTS game [Mindustry](https://github.com/anuken/mindustry) and its original soundtrack, for additional music for the adaptive music system!
   - credit to Blockage for the track Encounter, a music track used in their awesome ROBLOX game Neon Knights!
-- paper-minecraft: planned
+- paper-minecraft: local-html, web, standalone (windows-zip, linux-zip)
 - paper-minecraft-modded: planned, if I can find the right one
 
 ## How?
