@@ -6,7 +6,7 @@ This is a collection of games from the Scratch website (<https://scratch.mit.edu
 
 - [`griffpatch`'s Terraria (stamped) v6](<https://scratch.mit.edu/projects/322341152>)
   - `terraria-modified` is a version of this with minor graphical improvements
-- [planned] [`griffpatch`'s Paper Minecraft](<https://scratch.mit.edu/projects/10128407/>)
+- [`griffpatch`'s Paper Minecraft](<https://scratch.mit.edu/projects/10128407/>)
   - [planned] [`Aaryanthepro`'s Paper Minecraft Modded.](https://scratch.mit.edu/projects/407871564/) Yes, the one with nukes.
   - `paper-minecraft-modded` will have extra visual improvements as well
 
